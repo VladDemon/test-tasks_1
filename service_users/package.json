@@ -1,0 +1,12 @@
+{
+  "name": "service_users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service1.js",
+  "scripts": {
+    "node": "node service1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

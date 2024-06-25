@@ -1,0 +1,12 @@
+{
+  "name": "service_users-history",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service2.ts",
+  "scripts": {
+    "node": "tsc && node dist/service_users-history/service2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
